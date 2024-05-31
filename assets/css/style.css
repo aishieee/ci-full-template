@@ -16,9 +16,7 @@ body {
     flex-direction: column;
     /* Generic project styles */
     color: #3a3a3a;
-    font-family: "Lato", "Oswald", sans-serif;
-    font-weight: 300;
-    font-style: normal;
+    font-family: "Lato", sans-serif;
 }
 
 /* Header */
