@@ -61,6 +61,10 @@ header a {
     border-bottom: 1px solid #3a3a3a;
 }
 
+.hidden-heading {
+    display: none;
+}
+
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
